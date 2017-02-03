@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Bibin Wilson <bibinwilsonn@gmail.com>
+MAINTAINER Ajay Reddy Yeruva <ajayreddyyeruva@gmail.com>
 
 # Make sure the package repository is up to date.
 RUN apt-get update
